@@ -11,8 +11,10 @@ const Home = () => {
 			<Navbar/>
 			<div class="container">
                  <Jumbrotron/>
+				 <br/>
                 <Card/>
 			</div>
+			<br/>
 			<Footer/>
 		</div>
 	);
